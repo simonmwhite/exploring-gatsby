@@ -5,6 +5,7 @@ import Layout from "../components/layout";
 import Seo from "../components/seo";
 import Skill from "../components/skill";
 import MyAvatar from "../components/avatar";
+import Social from "../components/social";
 // JSON imports.
 import skills from "../content/skills.json";
 import avatar from "../content/avatar.json";
@@ -28,6 +29,9 @@ const IndexPage = () => (
           />
         );
       })}
+    </section>
+    <section>
+      <Social />
     </section>
   </Layout>
 );
