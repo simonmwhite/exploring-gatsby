@@ -1,5 +1,6 @@
 import * as React from "react";
-import { Container } from "theme-ui";
+import { Container, Box } from "theme-ui";
+import { SiDrupal, SiLinkedin, SiCodepen, SiGithub } from "react-icons/si";
 
 const Social = () => {
   return (
@@ -9,6 +10,18 @@ const Social = () => {
         mt: "4",
       }}
     >
+      <Box>
+        <SiDrupal />
+      </Box>
+      <Box>
+        <SiLinkedin />
+      </Box>
+      <Box>
+        <SiCodepen />
+      </Box>
+      <Box>
+        <SiGithub />
+      </Box>
     </Container>
   );
 };
