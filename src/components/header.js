@@ -6,7 +6,7 @@ import { Image, Link, Flex, NavLink, jsx } from "theme-ui";
 
 const Header = ({ siteTitle }) => (
   <header
-    sx= {{
+    sx={{
       margin: "0 auto",
       padding: "var(--space-4) var(--size-gutter)",
       backgroundColor: "white",
