@@ -26,7 +26,7 @@
   },
   {
     "name": "Gatsby",
-    "description": "A modern framework combining React, GraphQL and Webpage to build performant frontend UIs.",
+    "description": "A modern framework combining React, GraphQL and Webpack to build performant frontends.",
     "level": "100%"
   },
   {
