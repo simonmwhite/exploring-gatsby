@@ -17,7 +17,7 @@ const theme = {
   colors: {
     text: "#404040",
     background: "#fff",
-    primary: "#F78181",
+    primary: "#1568db",
     secondary: "#9a9a9a",
     muted: "#f7f7f7",
     gray: "#9a9a9a",
@@ -95,7 +95,7 @@ const theme = {
     nav: {
       px: 2,
       py: 1,
-      textTransform: "uppercase",
+      textTransform: "title-case",
       letterSpacing: "0.2em",
     },
     plain: {
@@ -149,6 +149,9 @@ const theme = {
         },
       },
     },
+    leadParagraph: {
+      maxWidth: "100%",
+    },
     large: {
       fontSize: 5,
     },
@@ -191,6 +194,9 @@ const theme = {
     },
     hr: {
       borderColor: "lightGray",
+    },
+    dl: {
+      mb: 0,
     },
   },
 };

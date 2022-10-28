@@ -1,0 +1,62 @@
+[
+  {
+    "name": "HTML",
+    "description": "A way to define meaning and structure of web content.",
+    "level": "100%"
+  },
+  {
+    "name": "CSS",
+    "description": "A core language of the open web; it is a stylesheet language used to describe the presentation of a document written HTML.",
+    "level": "100%"
+  },
+  {
+    "name": "SASS/SCSS",
+    "description": "A modern approach for applying style to the presentation layer. My preference is to use the SCSS syntax. It is a superset of CSS, and is easy to understand.",
+    "level": "100%"
+  },
+  {
+    "name": "JavaScript",
+    "description": "Exploring the behaviour layer with ES5 and ES6, JavaScript is programming language primarily used in the browser.",
+    "level": "100%"
+  },
+  {
+    "name": "React",
+    "description": "A modern JavaScript library for building user interfaces.",
+    "level": "100%"
+  },
+  {
+    "name": "Gatsby",
+    "description": "A modern framework combining React, GraphQL and Webpack to build performant frontends.",
+    "level": "100%"
+  },
+  {
+    "name": "NPM",
+    "description": "A way to manage JavaScript packages via a CLI and their software registry.",
+    "level": "100%"
+  },
+  {
+    "name": "Composer",
+    "description": "An awesome tool to manage dependency management in PHP.",
+    "level": "100%"
+  },
+  {
+    "name": "Drupal",
+    "description": "The best open DXP in the world.",
+    "level": "100%"
+  },
+  {
+    "name": "Docksal",
+    "description": "Docksal is ace. It's an all-purpose web-development environment based on Docker and Docker Compose.",
+    "level": "100%"
+  },
+  {
+    "name": "Git",
+    "description": "The go-to choice for version control.",
+    "level": "100%"
+  },
+  {
+    "name": "BASH",
+    "description": "A Unix shell and a command language interpreter.",
+    "level": "100%"
+  }
+]
